@@ -6,7 +6,16 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/(D) My Documents/Unreal Projects/Game2_Green/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"D:/(D) My Documents/Unreal Projects/Game2_Green/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"D:/(D) My Documents/Unreal Projects/Game2_Green/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/(D) My Documents/GameDev_Repo/GameDev/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"D:/(D) My Documents/GameDev_Repo/GameDev/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset",
+				"D:/(D) My Documents/GameDev_Repo/GameDev/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"D:/(D) My Documents/GameDev_Repo/GameDev/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/(D) My Documents/GameDev_Repo/GameDev/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/(D) My Documents/GameDev_Repo/GameDev/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/QF/BY1DA5CRGQSAMOTK8RA8KR.uasset",
+				"D:/(D) My Documents/GameDev_Repo/GameDev/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/CF/8GAMWEMCN24JHCCLJM74DI.uasset",
+				"D:/(D) My Documents/GameDev_Repo/GameDev/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/GM/8FF2TBIWNZ83P0DXXPZLPT.uasset",
+				"D:/(D) My Documents/GameDev_Repo/GameDev/Content/ThirdPerson/Input/Actions/IA_Walk.uasset"
 			]
 		}
 	]
