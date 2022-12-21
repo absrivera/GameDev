@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Orang/Documents/Unreal Projects/GameDev/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Orang/Documents/Unreal Projects/GameDev/Content/LevelPrototyping/Materials/Outline_Inst.uasset",
+				"C:/Users/Orang/Documents/Unreal Projects/GameDev/Content/LevelPrototyping/PostProcess/Outline.uasset",
+				"C:/Users/Orang/Documents/Unreal Projects/GameDev/Content/LevelPrototyping/Materials/Outline.uasset",
+				"C:/Users/Orang/Documents/Unreal Projects/GameDev/Content/LevelPrototyping/PostProcess/Outline_Inst.uasset",
+				"C:/Users/Orang/Documents/Unreal Projects/GameDev/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/G0/LWIAVB8L13RVSA0CH79VUH.uasset",
+				"C:/Users/Orang/Documents/Unreal Projects/GameDev/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
 				"D:/(D) My Documents/Unreal Projects/Game2_Green/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/(D) My Documents/Unreal Projects/Game2_Green/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/(D) My Documents/GameDev_Repo/GameDev/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
